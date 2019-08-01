@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">The New York Times</string>
+    <string name="please_wait">Please wait...</string>
+    <string name="network_error">Please check your internet connection.</string>
+    <string name="ok">OK</string>
+    <string name="error">Error</string>
+    <string name="server_error">Something went wrong. Please try again later.</string>
+</resources>
